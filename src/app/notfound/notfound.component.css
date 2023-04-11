@@ -1,0 +1,27 @@
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+h2{
+    padding: 20px;
+}
+.text-center{
+    text-align: center;
+}
+.test{
+    width:900px;
+    height:2rem;
+}
+div{
+    width:300px;
+    border: 5px solid black;
+    padding: 50px;
+    margin:20px;
+}
+
+.box{
+    background-color:rgb(238, 193, 125);
+}
